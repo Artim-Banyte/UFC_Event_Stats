@@ -1,2 +1,4 @@
 # UFC_Event_Stats
-Created a dataset by constructing a web-scraping tool in **Python** using Beautiful Soup as well as conducting descriptive analysis using **Pandas**
+
+This is my project on creating a web scraping tool to scrape data of the offical UFC statistics website (http://ufcstats.com/statistics/events/completed) and analyse it using the Python Library Pandas.
+
